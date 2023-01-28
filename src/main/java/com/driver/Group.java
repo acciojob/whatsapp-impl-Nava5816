@@ -23,4 +23,4 @@ public class Group {
     public void setNumberOfParticipants(int numberOfParticipants) {
         this.numberOfParticipants = numberOfParticipants;
     }
-}}
+}
